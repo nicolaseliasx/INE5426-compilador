@@ -8,7 +8,6 @@ Este repositório contém o código-fonte de um compilador completo desenvolvido
 
 - Nicolas Elias
 - Patricia Bardini
-- Gustavo Fukushima
 
 ## Professor
 
